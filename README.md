@@ -8,6 +8,8 @@ npm run dev
 
 port used for the project - http://localhost:5173/
 
+# github repo - https://github.com/Yashkushwah34/zaniaTest
+
 ### Project Overview
 
 In this project we have used React18, Typescript with tailwind CSS. Created some interfaces to create the blueprint for the data which we are going to get in response of hitting the api. For API calling we have used axios, for global state management we have used redux toolkit to store the data and persisted the data in session storage, so that if the page is reloaded, the data still remains the same and is stored in sessionStorage. You can see the configuration used to store the data in sessionStorage in store.js file which there in redux folder of the project. And with this we have created a mock server using mswjs, so that some simple api calling can be done and the response can be replicated as according to the real server.
