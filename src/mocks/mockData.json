@@ -1,0 +1,32 @@
+[
+  {
+    "type": "bank-draft",
+    "title": "Bank Draft",
+    "position": 0,
+    "image": "https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg"
+  },
+  {
+    "type": "bill-of-lading",
+    "title": "Bill of Lading",
+    "position": 1,
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/022/963/918/small_2x/ai-generative-cute-cat-isolated-on-solid-background-photo.jpg"
+  },
+  {
+    "type": "invoice",
+    "title": "Invoice",
+    "position": 2,
+    "image": "https://img.freepik.com/free-photo/close-up-adorable-kitten-indoors_23-2150782415.jpg?size=626&ext=jpg&ga=GA1.1.1518270500.1717200000&semt=ais_user"
+  },
+  {
+    "type": "bank-draft-2",
+    "title": "Bank Draft 2",
+    "position": 3,
+    "image": "https://cdn.britannica.com/34/235834-050-C5843610/two-different-breeds-of-cats-side-by-side-outdoors-in-the-garden.jpg"
+  },
+  {
+    "type": "bill-of-lading-2",
+    "title": "Bill of Lading 2",
+    "position": 4,
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/024/646/930/small_2x/ai-generated-stray-cat-in-danger-background-animal-background-photo.jpg"
+  }
+]
