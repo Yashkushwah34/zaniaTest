@@ -8,6 +8,12 @@ npm run dev
 
 port used for the project - http://localhost:5173/
 
+## Docker command to run docker image
+
+docker build -t zania-test-react .
+
+docker run -p 5173:5173 zania-test-react
+
 # github repo - https://github.com/Yashkushwah34/zaniaTest
 
 ### Project Overview
