@@ -3,6 +3,8 @@ Made By - Yash Kushwah
 
 ### Project setup
 
+node version - 20.11.0
+
 npm install
 npm run dev
 
