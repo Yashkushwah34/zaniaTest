@@ -14,6 +14,8 @@ docker build -t zania-test-react .
 
 docker run -p 5173:5173 zania-test-react
 
+# video link - https://www.awesomescreenshot.com/video/28263621?key=11d4cf98e0b6f5c9a797a9377da9f9fa
+
 # github repo - https://github.com/Yashkushwah34/zaniaTest
 
 ### Project Overview
